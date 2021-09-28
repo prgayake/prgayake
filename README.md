@@ -25,8 +25,6 @@
 	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
 	<img title="PHP" alt="PHP" src="https://www.php.net/images/logos/new-php-logo.svg" height="40" />
 	<img title="HTML" alt="HTML" src="https://github.com/prgayake/demo/blob/main/171-1718053_html-css-javascript-png-transparent-png-removebg-preview.png" height="40" />
-	<img title="Git" alt="Git" src="https://swimburger.net/media/ppnn3pcl/azure.png" width="40" height="40" />
-	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
 	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" />
 	<img title="linux" alt="linux" src="https://www.pngkit.com/png/full/66-667065_js-club-new-balance-png-logo-node-js.png" width="40" />
 </p>

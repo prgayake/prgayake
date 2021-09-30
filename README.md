@@ -39,9 +39,9 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
-  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Azure)
+<!--   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Azure) -->
   ![Heroku](https://img.shields.io/badge/-Heroku-333333?style=flat&logo=Heroku)
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS)
+<!--   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS) -->
 
 
 ## 🔥Github Stats 📈

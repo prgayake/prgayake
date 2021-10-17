@@ -44,6 +44,17 @@
 <!--   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Azure) -->
 <!--   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS) -->
 
+## 🤝 Let's Connect 
+<!-- <a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a> -->
+<a href="https://mobile.twitter.com/pradyumna__g">
+  <img align="left" alt="Pradyumna's| Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/prgayake/">
+  <img align="left" alt="Pradyumna's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br>
 
 ## 🔥Github Stats 📈
 <div>

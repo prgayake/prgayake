@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25">, I'm Pradyumna Gayake </h1>
+<h1 align="center">Hello , I'm Pradyumna Gayake </h1>
     <div align ="center"><a  href="https://github.com/prgayake"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Problem+Solving;Cloud+Computing&center=true&width=500&height=50"></a></div>
     
 <a href=""><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
